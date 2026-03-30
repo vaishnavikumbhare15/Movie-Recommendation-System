@@ -1,0 +1,1 @@
+Built a movie recommendation system using Python, SQL, and statistics by merging titles, genres, ratings, and tags via SQL joins. Calculated average ratings and popularity metrics to filter quality content. Applied cosine similarity and scikit-learn text matching to generate personalized movie recommendations based on genres and user input.
